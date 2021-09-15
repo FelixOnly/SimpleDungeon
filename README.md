@@ -7,6 +7,12 @@ Project was created on Unity with language C#. This is a simple game with a pixe
 
 How much deep you can get down? 
 
+WSAD - Moving 
+E - Actions
+Click on enemy when they - Attack. 
+
+You moving step by step when you in fight.
+
 ### Dependencies
 * Unity 2020.03.7f1 
 
